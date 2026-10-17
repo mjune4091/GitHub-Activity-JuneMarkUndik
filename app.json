@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "repo",
     "slug": "repo",
+=======
+    "name": "Calculator",
+    "slug": "Calculator",
+>>>>>>> origin/main
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
